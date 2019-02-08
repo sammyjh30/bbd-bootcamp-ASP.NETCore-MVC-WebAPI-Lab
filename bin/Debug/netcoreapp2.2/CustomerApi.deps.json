@@ -22,7 +22,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v2.2": {
-      "TodoApi/1.0.0": {
+      "CustomerApi/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
@@ -30,10 +30,10 @@
           "Swashbuckle.AspNetCore": "4.0.1"
         },
         "runtime": {
-          "TodoApi.dll": {}
+          "CustomerApi.dll": {}
         },
         "compile": {
-          "TodoApi.dll": {}
+          "CustomerApi.dll": {}
         }
       },
       "Microsoft.NETCore.App/2.2.0": {
@@ -3288,7 +3288,7 @@
     }
   },
   "libraries": {
-    "TodoApi/1.0.0": {
+    "CustomerApi/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

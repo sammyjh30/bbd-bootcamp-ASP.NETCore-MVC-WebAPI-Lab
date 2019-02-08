@@ -12187,11 +12187,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bbdnet2004\\Documents\\Learning\\dotNET\\TodoApi\\TodoApi.csproj",
-      "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\bbdnet2004\\Documents\\Learning\\dotNET\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\bbdnet2004\\Documents\\Learning\\dotNET\\CustomerApi\\CustomerApi.csproj",
+      "projectName": "CustomerApi",
+      "projectPath": "C:\\Users\\bbdnet2004\\Documents\\Learning\\dotNET\\CustomerApi\\CustomerApi.csproj",
       "packagesPath": "C:\\Users\\bbdnet2004\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bbdnet2004\\Documents\\Learning\\dotNET\\TodoApi\\obj\\",
+      "outputPath": "C:\\Users\\bbdnet2004\\Documents\\Learning\\dotNET\\CustomerApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
